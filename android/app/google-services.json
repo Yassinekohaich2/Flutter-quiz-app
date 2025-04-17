@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247097258649",
+    "project_id": "text-me-app-11ae0",
+    "storage_bucket": "text-me-app-11ae0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247097258649:android:07fd145c15c9e837c6be08",
+        "android_client_info": {
+          "package_name": "com.kaizer.messageme_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDdWXQAl15waL0k7ldZ1ux_gUmQvlbME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
